@@ -1,0 +1,11 @@
+{
+  "appId": "com.calculator.bilal",
+  "appName": "Calculator",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
